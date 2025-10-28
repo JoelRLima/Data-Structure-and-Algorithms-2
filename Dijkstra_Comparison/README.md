@@ -64,3 +64,7 @@ Essa diferença é explicada pela complexidade dos algoritmos:
 - Versão Min-Heap: apresenta a melhor performance, com complexidade $O((V+E)log⁡V)$, graças ao uso da fila de prioridade (heap), que permite obter o vértice mínimo em tempo logarítmico.
 
 Como consequência, algoritmos mais eficientes não apenas reduzem o tempo de execução, mas também diminuem o consumo energético e a pegada de carbono, evidenciando uma correlação direta entre eficiência computacional e sustentabilidade ambiental.
+
+## Link do Vídeo
+
+https://www.youtube.com/watch?v=eRvPA6L72Ag
