@@ -50,16 +50,17 @@ A análise considera tempo de execução e emissões de CO₂ em diferentes tama
 
 ## 🔍 Análise dos Resultados
 
-Os gráficos mostram que, conforme o tamanho do grafo aumenta, tanto o tempo de execução quanto a pegada de carbono crescem. Esse comportamento é esperado, já que grafos maiores exigem mais operações computacionais e, consequentemente, maior consumo energético.
+Os gráficos mostram que tanto o tempo de execução quanto a pegada de carbono aumentam com o crescimento do tamanho dos grafos, o que é esperado, já que problemas maiores exigem mais processamento e energia.
 
-Em todas as medições, observa-se uma tendência consistente na ordem de desempenho dos métodos:
+A sequência de desempenho se mantém em todos os casos:
+Clássico > NetworkX > Min-Heap, tanto para tempo quanto para pegada de carbono.
 
-- Implementação Clássica (Clássico) apresenta os maiores valores de tempo e pegada de carbono;
+Essa diferença é explicada pela complexidade dos algoritmos:
 
-- NetworkX aparece em posição intermediária;
+- Versão Clássica: possui complexidade $O(V²+E)$, pois a seleção do próximo vértice com menor distância é feita de forma linear, percorrendo todos os vértices ainda não visitados a cada iteração. Esse método é simples, mas torna-se ineficiente para grafos grandes.
 
-- Min-Heap apresenta os melhores resultados, com menor tempo de execução e menor impacto ambiental.
+- Versão NetworkX: utiliza implementações otimizadas e estruturas de dados mais eficientes, o que melhora o desempenho, mas ainda com certa sobrecarga devido à abstração da biblioteca.
 
-Essa hierarquia indica que o uso de estruturas de dados mais eficientes, como a Min-Heap, reduz significativamente o custo computacional, o que, por consequência, diminui a energia consumida e a pegada de carbono. Já a versão clássica, possivelmente baseada em buscas lineares para encontrar o próximo vértice de menor distância, tem complexidade maior e, portanto, pior desempenho.
+- Versão Min-Heap: apresenta a melhor performance, com complexidade $O((V+E)log⁡V)$, graças ao uso da fila de prioridade (heap), que permite obter o vértice mínimo em tempo logarítmico.
 
-Além disso, a correlação entre tempo de execução e pegada de carbono é evidente: métodos mais rápidos tendem a consumir menos energia, confirmando que eficiência algorítmica contribui diretamente para sustentabilidade computacional.
+Como consequência, algoritmos mais eficientes não apenas reduzem o tempo de execução, mas também diminuem o consumo energético e a pegada de carbono, evidenciando uma correlação direta entre eficiência computacional e sustentabilidade ambiental.
