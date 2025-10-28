@@ -1,5 +1,9 @@
 # Atividade 1 – Comparação de Algoritmos de Dijkstra
 
+Componentes:
+- Joel Rodrigues de Lima
+- Sueyvid José Barbosa Paulo
+
 ## 🎯 Objetivo
 O objetivo desta atividade é comparar o desempenho e a pegada de carbono de três implementações do algoritmo de Dijkstra:
 - **Versão Clássica (O(V²))**
@@ -41,3 +45,21 @@ A análise considera tempo de execução e emissões de CO₂ em diferentes tama
 - Bibliotecas:
   ```bash
   pip install networkx numpy pandas matplotlib codecarbon scipy
+
+---
+
+## 🔍 Análise dos Resultados
+
+Os gráficos mostram que, conforme o tamanho do grafo aumenta, tanto o tempo de execução quanto a pegada de carbono crescem. Esse comportamento é esperado, já que grafos maiores exigem mais operações computacionais e, consequentemente, maior consumo energético.
+
+Em todas as medições, observa-se uma tendência consistente na ordem de desempenho dos métodos:
+
+- Implementação Clássica (Clássico) apresenta os maiores valores de tempo e pegada de carbono;
+
+- NetworkX aparece em posição intermediária;
+
+- Min-Heap apresenta os melhores resultados, com menor tempo de execução e menor impacto ambiental.
+
+Essa hierarquia indica que o uso de estruturas de dados mais eficientes, como a Min-Heap, reduz significativamente o custo computacional, o que, por consequência, diminui a energia consumida e a pegada de carbono. Já a versão clássica, possivelmente baseada em buscas lineares para encontrar o próximo vértice de menor distância, tem complexidade maior e, portanto, pior desempenho.
+
+Além disso, a correlação entre tempo de execução e pegada de carbono é evidente: métodos mais rápidos tendem a consumir menos energia, confirmando que eficiência algorítmica contribui diretamente para sustentabilidade computacional.
