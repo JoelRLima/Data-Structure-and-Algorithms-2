@@ -48,6 +48,16 @@ A análise considera tempo de execução e emissões de CO₂ em diferentes tama
 
 ---
 
+## 📑 Resultados Numéricos – Dijkstra Clássico (O(V²))
+
+| Tamanho (nós) | Tempo médio (s)       | CO₂ médio (g)         |
+|---------------|-----------------------|-----------------------|
+| 100           | 0.001 ± 0.000         | 0.000006 ± 0.000000   |
+| 500           | 0.025 ± 0.002         | 0.000082 ± 0.000005   |
+| 1000          | 0.101 ± 0.007         | 0.000325 ± 0.000021   |
+| 5000          | 2.584 ± 0.117         | 0.008237 ± 0.000372   |
+| 10000         | 10.013 ± 0.093        | 0.031493 ± 0.000884   |
+
 ## 🔍 Análise dos Resultados
 
 Os gráficos mostram que tanto o tempo de execução quanto a pegada de carbono aumentam com o crescimento do tamanho dos grafos, o que é esperado, já que problemas maiores exigem mais processamento e energia.
@@ -66,5 +76,6 @@ Essa diferença é explicada pela complexidade dos algoritmos:
 Como consequência, algoritmos mais eficientes não apenas reduzem o tempo de execução, mas também diminuem o consumo energético e a pegada de carbono, evidenciando uma correlação direta entre eficiência computacional e sustentabilidade ambiental.
 
 ## Link do Vídeo
+
 
 https://www.youtube.com/watch?v=eRvPA6L72Ag
