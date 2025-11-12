@@ -48,19 +48,17 @@ O nosso script (`atividadeunid2joel_e_sueyvid.py`) implementa um pipeline de 4 e
 
 A tabela abaixo (gerada pelo script) consolida as métricas de rede para os POIs (museus) nas 9 capitais do Nordeste.
 
-| Cidade     | Nós de POI | Comprimento MST (km) | Média km/POI | Média km/Aresta |
-|            |            |                      |              |                 |
-| Natal      | 13         | 19.63                | 1.51         | 1.64            |
-| Fortaleza  | 18         | 37.28                | 2.07         | 2.19            |
-| Salvador   | 36         | 41.24                | 1.15         | 1.18            |
-| Recife     | 27         | 26.75                | 0.99         | 1.03            |
-| São Luís   | 19         | 27.40                | 1.44         | 1.52            |
-| Maceió     | 10         | 6.09                 | 0.61         | 0.68            |
-| João Pessoa| 11         | 27.66                |  2.51        | 2.77            |
-| Teresina   | 8          | 12.28                | 1.54         | 1.75            |
-| Aracaju    | 5          | 8.08                 | 1.62         | 2.02            |
-
----
+| Cidade | Nós de POI | Comprimento MST (km) | Média km/POI | Média km/Aresta |
+| :--- | :---: | :---: | :---: | :---: |
+| Natal | 13 | 19.63 | 1.51 | 1.64 |
+| Fortaleza | 18 | 37.28 | 2.07 | 2.19 |
+| Salvador | 36 | 41.24 | 1.15 | 1.18 |
+| Recife | 27 | 26.75 | 0.99 | 1.03 |
+| São Luís | 19 | 27.40 | 1.44 | 1.52 |
+| Maceió | 10 | 6.09 | 0.61 | 0.68 |
+| João Pessoa | 11 | 27.66 | 2.51 | 2.77 |
+| Teresina | 8 | 12.28 | 1.54 | 1.75 |
+| Aracaju | 5 | 8.08 | 1.62 | 2.02 |
 
 ## 🔬 Análise Crítica (Requisito 6)
 
