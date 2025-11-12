@@ -2,6 +2,8 @@
 
 **Autores:** Joel e Sueyvid
 
+Link do Vídeo: [Vídeo do T2U2 - AED2 (Joel e Sueyvid)](https://www.youtube.com/watch?v=cw63i2my-L0)
+
 Este repositório contém a implementação do Trabalho 2 da Unidade 2, que foca na aplicação dos algoritmos A* e MST (Árvore Geradora Mínima) para resolver um problema de otimização de rede em grafos viários.
 
 ## 🎯 Objetivo
@@ -67,5 +69,6 @@ A análise da tabela de resultados e dos logs de processamento revela pontos cru
 Primeiro, a quilometragem da MST é altamente influenciada pela **dispersão geográfica** dos POIs, um fator que o nosso modelo capturou bem. Isto é evidente ao comparar **Maceió** e **João Pessoa**: ambas têm um número similar de museus (10 e 11, respetivamente), mas resultados drasticamente diferentes. Maceió exigiu apenas 6.09 km de rede (com a menor média, 0.61 km/POI), sugerindo que os seus museus são altamente clusterizados. Em contraste, João Pessoa exigiu 27.66 km (com a maior média, 2.51 km/POI), indicando que os seus museus são geograficamente muito dispersos.
 
 Segundo, a **limitação computacional** do método foi comprovada pelos nossos tempos de execução. O cálculo das rotas A* entre todos os pares de POIs tem um **custo quadrático ($\text{N}^2$)**. Notavelmente, o tempo não depende apenas do *número* de POIs (N), mas da complexidade do grafo. A prova disso é a anomalia encontrada em **João Pessoa**: com N=11, o processamento levou **210 segundos**. Em comparação, **Salvador**, com N=36 (mais que o triplo de POIs), levou apenas **86 segundos**. Isto sugere que as rotas em João Pessoa são longas e complexas, exigindo mais esforço computacional do A* do que as rotas (provavelmente mais curtas) em Salvador. Isto prova que, se tivéssemos escolhido POIs com N=500+, o tempo de execução seria completamente inviável.
+
 
 Finalmente, a qualidade dos nossos resultados é 100% dependente da **qualidade dos dados do OpenStreetMap**. POIs mal catalogados (ex: um museu em falta ou em local errado) ou ruas não mapeadas podem alterar significativamente o resultado final da MST.
