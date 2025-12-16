@@ -1,0 +1,1678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="36325.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-22343.000000 -18198.000000 36325.000000 38076.000000"
+     height="38076.0" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_Complex_Network id_Computer_network"
+              d="M 413.023956,847.741150 A 2062.901733,2062.901733 0,0 1,2431.169189,2061.561523"
+              stroke="#b87b86" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complex_Network id_Boolean_network"
+              d="M 280.511230,785.825439 A 1579.257953,1579.257953 0,0 1,303.719360,-988.223999"
+              stroke="#b87b86" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complex_Network id_Climate_networks"
+              d="M 353.753632,935.736938 A 2261.313590,2261.313590 0,0 1,-487.856903,3388.656250"
+              stroke="#b87b86" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complex_Network id_Social_network"
+              d="M 269.854736,915.408997 A 2029.180828,2029.180828 0,0 1,-1983.503174,1317.393555"
+              stroke="#e23d3c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complex_Network id_Complex_contagion"
+              d="M 406.360382,888.649597 A 3184.158199,3184.158199 0,0 1,2270.824463,4085.838379"
+              stroke="#b87b86" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complex_Network id_Flow_network"
+              d="M 308.002991,773.215088 A 3034.354534,3034.354534 0,0 1,1623.718506,-2493.042480"
+              stroke="#b87b86" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complex_Network id_Scale-free_network"
+              d="M 245.076981,865.300476 A 2762.830904,2762.830904 0,0 1,-2528.954346,-664.322021"
+              stroke="#e53635" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complex_Network id_Spatial_network"
+              d="M 260.138489,806.009827 A 959.475772,959.475772 0,0 1,-84.913109,-161.261353"
+              stroke="#be8283" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complex_Network id_Evolving_network"
+              d="M 276.544037,921.293152 A 972.291730,972.291730 0,0 1,-721.448730,1222.294922"
+              stroke="#be8283" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complex_Network id_Biological_network"
+              d="M 256.277954,811.934143 A 2105.188515,2105.188515 0,0 1,-695.812439,-1397.484253"
+              stroke="#b87b86" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complex_Network id_Complex_network"
+              d="M 410.307098,877.460693 A 1242.994844,1242.994844 0,0 1,1272.559448,1905.638794"
+              stroke="#e53635" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Computer_network id_Complex_network"
+              d="M 2403.258057,2150.442139 A 984.303957,984.303957 0,0 1,1356.418823,2065.586426"
+              stroke="#c5606b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Boolean_network id_Semantic_network"
+              d="M 402.290619,-1046.106323 A 461.566551,461.566551 0,0 1,800.099976,-843.210022"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Boolean_network id_Dependency_network"
+              d="M 394.324554,-1070.729248 A 406.418263,406.418263 0,0 1,776.078674,-1056.102905"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Boolean_network id_Small-world_network"
+              d="M 365.668030,-983.912109 A 1422.335454,1422.335454 0,0 1,52.633923,557.344299"
+              stroke="#cb525e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Boolean_network id_G-network"
+              d="M 284.026367,-1019.214722 A 236.454077,236.454077 0,0 1,111.750984,-1046.996216"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Boolean_network id_Balance_theory"
+              d="M 327.602417,-980.519348 A 584.685188,584.685188 0,0 1,-108.394127,-571.873718"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Boolean_network id_Artificial_neural_network"
+              d="M 292.664124,-1076.794556 A 2698.091120,2698.091120 0,0 1,-625.320801,-4049.583008"
+              stroke="#c26772" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_networks id_Climate_system"
+              d="M -506.356903,3374.787842 A 494.149659,494.149659 0,0 1,-57.650780,3182.319336"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_networks id_Climatology"
+              d="M -557.768555,3484.201904 A 3977.947433,3977.947433 0,0 1,-4295.058105,6289.100586"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_networks id_Time-series"
+              d="M -534.120667,3364.861572 A 3882.167001,3882.167001 0,0 1,2522.173584,-16.379118"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Social_network id_The_Social_Network"
+              d="M -2121.482910,1352.415161 A 237.172130,237.172130 0,0 1,-2251.878662,1417.473145"
+              stroke="#c26772" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Social_network id_Natter_(social_network)"
+              d="M -2050.777832,1185.983398 A 1042.363342,1042.363342 0,0 1,-1233.166260,417.119141"
+              stroke="#c26772" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Social_network id_Social_network_service"
+              d="M -2160.261475,1292.113647 A 179.749558,179.749558 0,0 1,-2254.390381,1255.380859"
+              stroke="#7d1b90" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Social_network id_Social_science"
+              d="M -2158.581299,1252.802246 A 3307.029084,3307.029084 0,0 1,-4574.037598,-1765.018799"
+              stroke="#7d1b90" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complex_contagion id_Collective_behavior"
+              d="M 2213.125244,4116.177734 A 438.934919,438.934919 0,0 1,2040.723755,3731.613281"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Flow_network id_Chartrand,_Gary"
+              d="M 1617.922363,-2537.669189 A 1679.923131,1679.923131 0,0 1,283.968201,-3910.728516"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scale-free_network id_Random_network"
+              d="M -2660.778809,-723.905029 A 210.545252,210.545252 0,0 1,-2768.699707,-743.558533"
+              stroke="#c5606b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scale-free_network id_Scientific_collaboration_network"
+              d="M -2478.542969,-729.766907 A 1491.997316,1491.997316 0,0 1,-1405.100586,540.274109"
+              stroke="#be596e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scale-free_network id_Network_motif"
+              d="M -2519.042236,-832.513367 A 780.206726,780.206726 0,0 1,-1776.494385,-1141.864014"
+              stroke="#c5606b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scale-free_network id_Efficiency_(network_science)"
+              d="M -2487.120117,-798.019104 A 1632.896257,1632.896257 0,0 1,-660.333252,-554.732483"
+              stroke="#9f367c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scale-free_network id_Agent-based_model"
+              d="M -2656.397217,-793.016602 A 4427.895332,4427.895332 0,0 1,-5130.545898,-5350.188965"
+              stroke="#c5606b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Spatial_network id_Neural_network"
+              d="M -113.425873,-270.407776 A 737.774985,737.774985 0,0 1,-264.172516,-1035.551880"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Spatial_network id_Transportation_network_(graph_theory)"
+              d="M -128.596100,-245.336945 A 235.312999,235.312999 0,0 1,-245.154907,-369.988007"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Evolving_network id_Average_path_length"
+              d="M -762.272217,1142.629150 A 497.658570,497.658570 0,0 1,-352.203400,853.960144"
+              stroke="#7e89c7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Evolving_network id_Social_network"
+              d="M -834.904907,1241.761475 A 1072.094481,1072.094481 0,0 1,-1987.799438,1325.375610"
+              stroke="#c86e6f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Evolving_network id_Small-world_network"
+              d="M -764.914185,1141.684692 A 795.476500,795.476500 0,0 1,-125.608643,634.363953"
+              stroke="#d1595b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Biological_network id_Biological_neural_network"
+              d="M -733.402893,-1493.204468 A 1166.243036,1166.243036 0,0 1,-1217.878418,-2694.356689"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Biological_network id_Weighted_network"
+              d="M -641.873352,-1414.038086 A 572.645800,572.645800 0,0 1,-565.493225,-838.279419"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Biological_network id_Gene_regulatory_network"
+              d="M -721.997009,-1413.862305 A 487.386252,487.386252 0,0 1,-1180.787720,-1280.418579"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Artificial_Intelligence id_Artificial_Intelligence_Act"
+              d="M -6894.155762,-9029.985352 A 2495.404360,2495.404360 0,0 1,-5272.176758,-6631.440430"
+              stroke="#919ebf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Artificial_Intelligence id_Artificial_intelligence_art"
+              d="M -6988.261230,-9006.218750 A 2789.614757,2789.614757 0,0 1,-10166.674805,-8334.434570"
+              stroke="#919ebf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Artificial_Intelligence id_Weak_artificial_intelligence"
+              d="M -6957.873535,-8991.931641 A 1740.070935,1740.070935 0,0 1,-8347.377930,-7569.185059"
+              stroke="#919ebf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Artificial_Intelligence id_Frame_(artificial_intelligence)"
+              d="M -6951.000488,-9108.296875 A 1227.813977,1227.813977 0,0 1,-6190.421875,-10251.944336"
+              stroke="#919ebf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Artificial_Intelligence id_Friendly_artificial_intelligence"
+              d="M -7000.151367,-9078.614258 A 1719.571261,1719.571261 0,0 1,-7821.080566,-10862.909180"
+              stroke="#919ebf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Artificial_Intelligence id_Symbolic_artificial_intelligence"
+              d="M -6892.760742,-9065.209961 A 2226.767490,2226.767490 0,0 1,-4487.165527,-8152.241699"
+              stroke="#919ebf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Artificial_Intelligence id_Ethics_of_artificial_intelligence"
+              d="M -6917.663574,-9000.521484 A 3126.377643,3126.377643 0,0 1,-7150.532715,-5355.119141"
+              stroke="#919ebf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Artificial_Intelligence id_Music_and_artificial_intelligence"
+              d="M -6896.076660,-9074.314453 A 4792.946994,4792.946994 0,0 1,-1361.090454,-7925.430176"
+              stroke="#919ebf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Artificial_Intelligence id_Scripts_(artificial_intelligence)"
+              d="M -6894.963379,-9027.871094 A 648.300654,648.300654 0,0 1,-6517.162109,-8466.710938"
+              stroke="#919ebf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Artificial_Intelligence_Act id_Artificial_general_intelligence"
+              d="M -5213.997559,-6559.199707 A 1583.383828,1583.383828 0,0 1,-3907.233643,-5323.614258"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Artificial_intelligence_art id_Artificial_intelligence_systems_integration"
+              d="M -10165.272461,-8348.342773 A 323.429680,323.429680 0,0 1,-9959.642578,-8156.631836"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Weak_artificial_intelligence id_Antonio_Lieto"
+              d="M -8467.146484,-7535.231445 A 657.920964,657.920964 0,0 1,-9138.286133,-7676.592773"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Weak_artificial_intelligence id_Cognitive_modelling"
+              d="M -8349.484375,-7556.192383 A 1082.690488,1082.690488 0,0 1,-7395.523926,-6833.296387"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Frame_(artificial_intelligence) id_Intelligent_agent"
+              d="M -6191.613281,-10273.443359 A 579.458748,579.458748 0,0 1,-6689.420410,-10588.306641"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Frame_(artificial_intelligence) id_DARPA_Agent_Markup_Language"
+              d="M -6076.358887,-10246.474609 A 693.791375,693.791375 0,0 1,-5732.040527,-9603.817383"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Friendly_artificial_intelligence id_Ambient_intelligence"
+              d="M -7753.519531,-10952.187500 A 469.465873,469.465873 0,0 1,-7298.917480,-10893.347656"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Symbolic_artificial_intelligence id_Symbolic_mathematics"
+              d="M -4391.199707,-8094.161621 A 1812.119882,1812.119882 0,0 1,-2802.187744,-6762.728516"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Symbolic_artificial_intelligence id_Symbolic_programming"
+              d="M -4509.812988,-8118.784180 A 621.708248,621.708248 0,0 1,-4894.859863,-8643.806641"
+              stroke="#7f89c8" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Symbolic_artificial_intelligence id_Neuro-symbolic_AI"
+              d="M -4423.001465,-8044.825195 A 769.714528,769.714528 0,0 1,-4508.632324,-7228.799316"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ethics_of_artificial_intelligence id_Philosophy_of_social_science"
+              d="M -7134.050781,-5285.816406 A 1865.742317,1865.742317 0,0 1,-5913.249023,-3531.277832"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Music_and_artificial_intelligence id_Machine_learning_in_earth_sciences"
+              d="M -1291.366333,-7932.410645 A 3403.338284,3403.338284 0,0 1,2244.357422,-9766.550781"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Music_and_artificial_intelligence id_Artificial_neural_network"
+              d="M -1273.498291,-7836.145508 A 3172.932817,3172.932817 0,0 1,-553.912537,-4225.853027"
+              stroke="#c26772" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scripts_(artificial_intelligence) id_Conceptual_dependency_theory"
+              d="M -6467.375977,-8367.690430 A 438.564487,438.564487 0,0 1,-6307.976074,-7965.805176"
+              stroke="#7882ca" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scripts_(artificial_intelligence) id_Knowledge_representation"
+              d="M -6517.731445,-8463.710938 A 501.743093,501.743093 0,0 1,-6246.656250,-8880.780273"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scripts_(artificial_intelligence) id_Natural-language_understanding"
+              d="M -6466.210938,-8369.426758 A 697.053500,697.053500 0,0 1,-6180.722656,-7696.692871"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_Change id_Climate_change_art"
+              d="M -19274.859375,17021.525391 A 1850.163094,1850.163094 0,0 1,-21376.119141,16733.669922"
+              stroke="#919ebf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_Change id_Abrupt_climate_change"
+              d="M -19207.011719,16937.757813 A 2630.147397,2630.147397 0,0 1,-16789.458984,15066.380859"
+              stroke="#919ebf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_Change id_Climate_change_denial"
+              d="M -19274.228516,16965.292969 A 2093.637612,2093.637612 0,0 1,-20280.574219,14771.943359"
+              stroke="#919ebf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_Change id_Nature_Climate_Change"
+              d="M -19176.427734,16958.851563 A 1969.927900,1969.927900 0,0 1,-16912.068359,16920.974609"
+              stroke="#919ebf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_Change id_Climate_change_in_Asia"
+              d="M -19281.136719,17002.394531 A 2883.131192,2883.131192 0,0 1,-22249.429688,15426.088867"
+              stroke="#919ebf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_Change id_Climate_change_scenario"
+              d="M -19180.833984,17034.324219 A 2298.169057,2298.169057 0,0 1,-18702.095703,19647.443359"
+              stroke="#97a5bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_Change id_Causes_of_climate_change"
+              d="M -19194.375000,17044.896484 A 1096.782692,1096.782692 0,0 1,-19314.203125,18254.994141"
+              stroke="#919ebf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_Change id_Climate_change_and_birds"
+              d="M -19247.666016,16940.814453 A 1775.311616,1775.311616 0,0 1,-18854.949219,14948.129883"
+              stroke="#919ebf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_Change id_Climate_change_and_crime"
+              d="M -19165.896484,17005.718750 A 2700.645441,2700.645441 0,0 1,-17053.697266,19331.613281"
+              stroke="#919ebf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_Change id_Climate_change_feedback"
+              d="M -19205.173828,16938.320313 A 3844.810638,3844.810638 0,0 1,-15569.467773,14307.422852"
+              stroke="#be596e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_change_art id_Climate_change"
+              d="M -21481.945313,16675.496094 A 543.055907,543.055907 0,0 1,-21858.250000,16278.054688"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Abrupt_climate_change id_Climate_change_feedback"
+              d="M -16701.039063,15008.632813 A 1220.157626,1220.157626 0,0 1,-15569.292969,14302.428711"
+              stroke="#c5606b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_change_denial id_ExxonMobil_climate_change_denial"
+              d="M -20243.537109,14653.047852 A 415.040648,415.040648 0,0 1,-19918.490234,14433.067383"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_change_denial id_Climate_Change_Denial:_Heads_in_the_Sand"
+              d="M -20211.816406,14684.775391 A 281.907058,281.907058 0,0 1,-19983.089844,14712.383789"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nature_Climate_Change id_Atmospheric_science"
+              d="M -16848.050781,16897.791016 A 839.434476,839.434476 0,0 1,-16204.789063,16265.158203"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_change_in_Asia id_Climate_change_in_Somalia"
+              d="M -22247.445313,15421.677734 A 258.583618,258.583618 0,0 1,-22249.328125,15623.431641"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_change_scenario id_Effects_of_climate_change_on_agriculture"
+              d="M -18673.457031,19680.367188 A 608.586503,608.586503 0,0 1,-18056.343750,19773.939453"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Causes_of_climate_change id_Effects_of_climate_change_on_the_water_cycle"
+              d="M -19304.707031,18336.197266 A 723.257774,723.257774 0,0 1,-19003.978516,19041.537109"
+              stroke="#919ebf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_change_and_birds id_Climate_change_and_civilizational_collapse"
+              d="M -18864.279297,14928.290039 A 434.710727,434.710727 0,0 1,-19274.656250,14858.165039"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_change_and_birds id_History_of_climate_change_policy_and_politics"
+              d="M -18868.058594,14893.153320 A 454.551018,454.551018 0,0 1,-19187.501953,14590.067383"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_change_and_birds id_Climate_risk"
+              d="M -18780.587891,14849.850586 A 761.492584,761.492584 0,0 1,-18070.847656,14458.246094"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_change_and_crime id_Climate-smart_agriculture"
+              d="M -17068.753906,19452.482422 A 468.902061,468.902061 0,0 1,-17435.533203,19722.482422"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Earth id_Early_Earth"
+              d="M 13871.105469,-15041.684570 A 2297.158315,2297.158315 0,0 1,12029.343750,-16960.417969"
+              stroke="#8b97c2" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Earth id_Earth&apos;s_age"
+              d="M 13895.042969,-14985.407227 A 3940.080817,3940.080817 0,0 1,9536.917969,-13417.690430"
+              stroke="#8b97c2" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Earth id_Age_of_Earth"
+              d="M 13883.897461,-15068.498047 A 2653.847958,2653.847958 0,0 1,13193.841797,-18078.183594"
+              stroke="#8b97c2" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Earth id_Earth_radius"
+              d="M 13931.726563,-14976.226563 A 4413.500394,4413.500394 0,0 1,11273.515625,-10507.375977"
+              stroke="#8b97c2" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Earth id_Earth_symbol"
+              d="M 13873.285156,-15013.666992 A 865.880296,865.880296 0,0 1,12966.290039,-15270.893555"
+              stroke="#8590c5" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Early_Earth id_Secondary_atmosphere"
+              d="M 12018.097656,-17085.007813 A 472.945741,472.945741 0,0 1,12252.504883,-17483.824219"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Earth&apos;s_age id_Earth_science"
+              d="M 9448.117188,-13381.459961 A 3372.161324,3372.161324 0,0 1,5936.585938,-11586.666992"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Age_of_Earth id_Journal_of_Geophysical_Research"
+              d="M 13182.367188,-18088.320313 A 372.146465,372.146465 0,0 1,12864.422852,-17966.640625"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Earth_radius id_Earth_tide"
+              d="M 11211.553711,-10421.541016 A 3785.397799,3785.397799 0,0 1,8413.523438,-6971.965820"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Earth_symbol id_Solar_symbol"
+              d="M 12885.179688,-15278.136719 A 360.867651,360.867651 0,0 1,12563.300781,-15209.863281"
+              stroke="#919ebf" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Earth_symbol id_Planetary_symbol"
+              d="M 12875.191406,-15292.273438 A 570.230131,570.230131 0,0 1,12322.274414,-15343.972656"
+              stroke="#bb6075" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Earth_symbol id_Astronomical_symbol"
+              d="M 12869.577148,-15309.946289 A 285.656829,285.656829 0,0 1,12651.190430,-15396.670898"
+              stroke="#97a5bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complex_network id_Complex_adaptive_system"
+              d="M 1362.491821,2051.852051 A 1017.885905,1017.885905 0,0 1,1801.062866,3076.621094"
+              stroke="#801489" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complex_network id_Complex_system"
+              d="M 1261.515259,2095.823730 A 964.515851,964.515851 0,0 1,483.457367,2801.632568"
+              stroke="#801489" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Complex_network id_Small-world_network"
+              d="M 1188.237061,1984.362549 A 1579.574014,1579.574014 0,0 1,-7.675171,729.309753"
+              stroke="#f80d0d" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dependency_network id_Semantic_network"
+              d="M 858.370422,-966.102722 A 195.180402,195.180402 0,0 1,862.496033,-845.387268"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_G-network id_Neural_network"
+              d="M 7.916111,-1057.893433 A 250.507116,250.507116 0,0 1,-183.876312,-1061.494995"
+              stroke="#98a5bd" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Balance_theory id_Social_Network"
+              d="M -184.535721,-501.804138 A 586.573361,586.573361 0,0 1,-643.168213,-78.395264"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Artificial_neural_network id_Biological_neural_network"
+              d="M -576.645264,-4049.053223 A 1256.991120,1256.991120 0,0 1,-1145.164307,-2793.470703"
+              stroke="#c86e6f" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_system id_Complex_system"
+              d="M 21.856222,3134.699707 A 489.981619,489.981619 0,0 1,412.851501,2810.626465"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climatology id_Climate_model"
+              d="M -4377.665527,6347.858398 A 3898.059334,3898.059334 0,0 1,-8078.738281,9036.873047"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Time-series id_Tide"
+              d="M 2588.703857,-90.127739 A 3765.643161,3765.643161 0,0 1,5447.495605,-3488.675537"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_The_Social_Network id_Social_network_service"
+              d="M -2331.811035,1359.406006 A 159.033438,159.033438 0,0 1,-2303.740479,1257.729980"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Natter_(social_network) id_Social_Network"
+              d="M -1157.269287,347.387604 A 572.568998,572.568998 0,0 1,-713.469666,-67.216293"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Collective_behavior id_Complex_adaptive_system"
+              d="M 1998.544434,3635.999512 A 510.679403,510.679403 0,0 1,1787.974487,3146.590576"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Chartrand,_Gary id_Mathematician"
+              d="M 213.894806,-3980.617188 A 1711.163872,1711.163872 0,0 1,-1246.144653,-5310.949707"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Random_network id_Scale-free_network"
+              d="M -2765.262451,-802.920593 A 210.545252,210.545252 0,0 1,-2655.628906,-801.048096"
+              stroke="#c5606b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Scientific_collaboration_network id_Evolving_network"
+              d="M -1341.910278,611.518127 A 716.067324,716.067324 0,0 1,-798.281372,1136.754272"
+              stroke="#97a5bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Network_motif id_Gene_regulatory_network"
+              d="M -1676.387939,-1178.426636 A 415.710128,415.710128 0,0 1,-1309.721802,-1314.230957"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Neural_network id_Neural_circuit"
+              d="M -293.965851,-1120.885254 A 818.408171,818.408171 0,0 1,-728.345459,-1912.594238"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Transportation_network_(graph_theory) id_Food_web"
+              d="M -318.848633,-450.844604 A 189.256279,189.256279 0,0 1,-412.156219,-559.095276"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Efficiency_(network_science) id_Spatial_network"
+              d="M -579.429443,-526.816406 A 525.429056,525.429056 0,0 1,-100.077225,-284.245026"
+              stroke="#7882ca" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Efficiency_(network_science) id_Weighted_network"
+              d="M -643.375244,-563.299377 A 215.352291,215.352291 0,0 1,-632.839600,-723.524597"
+              stroke="#7882ca" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agent-based_model id_Cognitive_model"
+              d="M -5136.888672,-5472.955566 A 791.759307,791.759307 0,0 1,-4819.424316,-6284.050293"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agent-based_model id_Large_language_model"
+              d="M -5175.728027,-5442.629395 A 1010.819255,1010.819255 0,0 1,-5671.145020,-6462.968750"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agent-based_model id_Computational_model"
+              d="M -5182.813477,-5408.916016 A 1097.756711,1097.756711 0,0 1,-6239.658691,-6054.995117"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Average_path_length id_Small-world_network"
+              d="M -285.546204,806.653625 A 298.085086,298.085086 0,0 1,-123.586166,648.871765"
+              stroke="#ac306c" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Biological_neural_network id_Neural_circuit"
+              d="M -1144.663940,-2732.360596 A 784.573587,784.573587 0,0 1,-721.490112,-1983.446411"
+              stroke="#5960d8" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Biological_neural_network id_Biological_neuron_model"
+              d="M -1265.610107,-2767.296387 A 1586.809019,1586.809019 0,0 1,-2588.790527,-4022.477539"
+              stroke="#5960d8" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Weighted_network id_Food_web"
+              d="M -534.541565,-758.384399 A 211.880510,211.880510 0,0 1,-427.281921,-628.645691"
+              stroke="#5960d8" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Artificial_general_intelligence id_Biological_neuron_model"
+              d="M -3834.535645,-5253.084961 A 1475.961143,1475.961143 0,0 1,-2602.263672,-4092.375977"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Artificial_intelligence_systems_integration id_Cognitive_architecture"
+              d="M -9881.545898,-8099.930176 A 342.813300,342.813300 0,0 1,-9593.238281,-7939.169434"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Antonio_Lieto id_Cognitive_architecture"
+              d="M -9243.420898,-7715.554199 A 362.213832,362.213832 0,0 1,-9557.749023,-7877.469727"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Cognitive_modelling id_Computational_model"
+              d="M -7315.176270,-6776.335449 A 1095.557004,1095.557004 0,0 1,-6267.456055,-6120.527832"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_DARPA_Agent_Markup_Language id_Expert_system"
+              d="M -5678.875977,-9528.732422 A 577.485481,577.485481 0,0 1,-5251.354492,-9089.068359"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_DARPA_Agent_Markup_Language id_Knowledge_graph"
+              d="M -5743.108398,-9479.109375 A 315.347303,315.347303 0,0 1,-5924.044922,-9243.819336"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ambient_intelligence id_Intelligent_agent"
+              d="M -7190.496094,-10864.847656 A 475.727520,475.727520 0,0 1,-6755.951172,-10703.017578"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Symbolic_mathematics id_Mathematician"
+              d="M -2725.712646,-6694.570801 A 1704.934014,1704.934014 0,0 1,-1260.991211,-5380.568848"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Symbolic_programming id_Expert_system"
+              d="M -4946.497070,-8708.339844 A 415.205265,415.205265 0,0 1,-5238.837402,-9018.992188"
+              stroke="#3a3de6" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Neuro-symbolic_AI id_Cognitive_model"
+              d="M -4530.179688,-7122.421387 A 756.945923,756.945923 0,0 1,-4762.316895,-6326.424316"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Philosophy_of_social_science id_Social_science"
+              d="M -5855.546875,-3451.014893 A 1781.468435,1781.468435 0,0 1,-4577.192871,-1836.134033"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Machine_learning_in_earth_sciences id_Earth_science"
+              d="M 2334.796631,-9811.361328 A 3342.080963,3342.080963 0,0 1,5804.868164,-11607.828125"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Conceptual_dependency_theory id_Natural-language_understanding"
+              d="M -6278.456055,-7888.092285 A 258.530136,258.530136 0,0 1,-6187.028320,-7697.648926"
+              stroke="#7e89c7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Knowledge_representation id_Knowledge_graph"
+              d="M -6183.839355,-8967.421875 A 331.801643,331.801643 0,0 1,-5990.516602,-9218.347656"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Natural-language_understanding id_Large_language_model"
+              d="M -6138.629395,-7599.559082 A 1041.959085,1041.959085 0,0 1,-5658.705566,-6533.051270"
+              stroke="#5960d8" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_change id_Land-use_change"
+              d="M -21926.248047,16193.089844 A 285.060261,285.060261 0,0 1,-22078.449219,15982.238281"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_change_feedback id_Climate_science"
+              d="M -15434.306641,14395.498047 A 1095.663409,1095.663409 0,0 1,-15680.404297,15553.923828"
+              stroke="#c5606b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_change_feedback id_Climate_model"
+              d="M -15442.748047,14218.050781 A 7521.593126,7521.593126 0,0 1,-8212.136719,9035.363281"
+              stroke="#cb6768" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_change_feedback id_Climate_resilience"
+              d="M -15559.041992,14345.143555 A 996.378134,996.378134 0,0 1,-16599.830078,14120.249023"
+              stroke="#c5606b" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_ExxonMobil_climate_change_denial id_Climate_sceptic"
+              d="M -19798.740234,14406.219727 A 276.981165,276.981165 0,0 1,-19551.460938,14444.482422"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_Change_Denial:_Heads_in_the_Sand id_Climate_scientist"
+              d="M -19876.593750,14726.198242 A 255.153748,255.153748 0,0 1,-19655.390625,14759.161133"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_change_in_Somalia id_Land-use_change"
+              d="M -22225.583984,15702.142578 A 278.970504,278.970504 0,0 1,-22083.822266,15911.262695"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Effects_of_climate_change_on_agriculture id_Climate-smart_agriculture"
+              d="M -17964.351563,19775.595703 A 429.203678,429.203678 0,0 1,-17563.875000,19700.992188"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Effects_of_climate_change_on_the_water_cycle id_Climate_change_scenario"
+              d="M -18965.900391,19131.935547 A 557.813342,557.813342 0,0 1,-18721.521484,19641.503906"
+              stroke="#97a5bc" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_change_and_civilizational_collapse id_Climate_scientist"
+              d="M -19377.826172,14839.446289 A 256.216319,256.216319 0,0 1,-19599.919922,14803.772461"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_History_of_climate_change_policy_and_politics id_Climate_sceptic"
+              d="M -19259.974609,14548.370117 A 272.626485,272.626485 0,0 1,-19498.250000,14491.684570"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_risk id_Climate_hazard"
+              d="M -17968.636719,14417.065430 A 591.267677,591.267677 0,0 1,-17362.916016,14244.418945"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_science id_Atmospheric_science"
+              d="M -15724.685547,15659.223633 A 645.447464,645.447464 0,0 1,-16078.080078,16226.812500"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Climate_resilience id_Climate_hazard"
+              d="M -16684.388672,14119.815430 A 590.517504,590.517504 0,0 1,-17295.681641,14267.764648"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Secondary_atmosphere id_Asteroid"
+              d="M 12325.339844,-17571.458984 A 287.133727,287.133727 0,0 1,12520.207031,-17747.433594"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Journal_of_Geophysical_Research id_Asteroid"
+              d="M 12783.583984,-17920.699219 A 277.906712,277.906712 0,0 1,12590.245117,-17760.087891"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Earth_tide id_Tide"
+              d="M 8347.975586,-6894.852539 A 3745.089776,3745.089776 0,0 1,5516.677246,-3505.444092"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Solar_symbol id_Astronomical_symbol"
+              d="M 12501.141602,-15293.125000 A 202.318260,202.318260 0,0 1,12556.975586,-15410.190430"
+              stroke="#9eacba" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Solar_symbol id_Astrological_symbol"
+              d="M 12449.211914,-15260.775391 A 158.858064,158.858064 0,0 1,12394.179688,-15350.504883"
+              stroke="#5359db" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Planetary_symbol id_Astrological_symbol"
+              d="M 12340.130859,-15415.157227 A 119.366488,119.366488 0,0 1,12361.695313,-15406.662109"
+              stroke="#7d1b90" stroke-width="1.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#b87b86" fill-opacity="1.0"
+                  class="id_Complex_Network id_Computer_network"
+                  points="2432.354736,2064.317383 2429.791260,2062.154297 2432.547119,2060.968750"
+                  stroke="none"/>
+        <polyline fill="#b87b86" fill-opacity="1.0"
+                  class="id_Complex_Network id_Boolean_network"
+                  points="305.486420,-990.648376 304.931549,-987.340454 302.507172,-989.107544"
+                  stroke="none"/>
+        <polyline fill="#b87b86" fill-opacity="1.0"
+                  class="id_Complex_Network id_Climate_networks"
+                  points="-490.306458,3390.388184 -488.722900,3387.431396 -486.990906,3389.881104"
+                  stroke="none"/>
+        <polyline fill="#e23d3c" fill-opacity="1.0"
+                  class="id_Complex_Network id_Social_network"
+                  points="-1986.209473,1316.098999 -1982.855957,1316.040405 -1984.150391,1318.746704"
+                  stroke="none"/>
+        <polyline fill="#b87b86" fill-opacity="1.0"
+                  class="id_Complex_Network id_Complex_contagion"
+                  points="2270.518311,4088.822510 2269.332275,4085.685303 2272.316650,4085.991455"
+                  stroke="none"/>
+        <polyline fill="#b87b86" fill-opacity="1.0"
+                  class="id_Complex_Network id_Flow_network"
+                  points="1626.262939,-2494.631592 1624.512939,-2491.770264 1622.923828,-2494.314697"
+                  stroke="none"/>
+        <polyline fill="#e53635" fill-opacity="1.0"
+                  class="id_Complex_Network id_Scale-free_network"
+                  points="-2530.228516,-667.037964 -2527.596436,-664.959106 -2530.312256,-663.684937"
+                  stroke="none"/>
+        <polyline fill="#be8283" fill-opacity="1.0"
+                  class="id_Complex_Network id_Spatial_network"
+                  points="-84.151077,-164.162949 -83.462318,-160.880341 -86.363914,-161.642365"
+                  stroke="none"/>
+        <polyline fill="#be8283" fill-opacity="1.0"
+                  class="id_Complex_Network id_Evolving_network"
+                  points="-724.308350,1221.387939 -720.995239,1220.865112 -721.902222,1223.724731"
+                  stroke="none"/>
+        <polyline fill="#b87b86" fill-opacity="1.0"
+                  class="id_Complex_Network id_Biological_network"
+                  points="-695.167847,-1400.414185 -694.347473,-1397.161987 -697.277405,-1397.806519"
+                  stroke="none"/>
+        <polyline fill="#e53635" fill-opacity="1.0"
+                  class="id_Complex_Network id_Complex_network"
+                  points="1272.823975,1908.627075 1271.065308,1905.771118 1274.053589,1905.506470"
+                  stroke="none"/>
+        <polyline fill="#c5606b" fill-opacity="1.0"
+                  class="id_Computer_network id_Complex_network"
+                  points="1354.111450,2063.668945 1357.377441,2064.432861 1355.460205,2066.739990"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Boolean_network id_Semantic_network"
+                  points="801.595581,-840.609375 798.799683,-842.462219 801.400269,-843.957825"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Boolean_network id_Dependency_network"
+                  points="778.543579,-1054.392822 775.223633,-1054.870483 776.933716,-1057.335327"
+                  stroke="none"/>
+        <polyline fill="#cb525e" fill-opacity="1.0"
+                  class="id_Boolean_network id_Small-world_network"
+                  points="50.435589,559.385681 51.613220,556.245117 53.654625,558.443481"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Boolean_network id_G-network"
+                  points="109.406616,-1048.868164 112.686928,-1048.168457 110.815041,-1045.823975"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Boolean_network id_Balance_theory"
+                  points="-111.354935,-571.390442 -108.635780,-573.354126 -108.152458,-570.393311"
+                  stroke="none"/>
+        <polyline fill="#c26772" fill-opacity="1.0"
+                  class="id_Boolean_network id_Artificial_neural_network"
+                  points="-624.341125,-4052.418457 -623.903015,-4049.093262 -626.738586,-4050.072754"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Climate_networks id_Climate_system"
+                  points="-54.697338,3182.845947 -57.914040,3183.796143 -57.387512,3180.842529"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Climate_networks id_Climatology"
+                  points="-4298.057617,6289.124512 -4295.070313,6287.600586 -4295.045898,6290.600586"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Climate_networks id_Time-series"
+                  points="2525.113770,-16.975723 2522.471924,-14.909081 2521.875244,-17.849159"
+                  stroke="none"/>
+        <polyline fill="#c26772" fill-opacity="1.0"
+                  class="id_Social_network id_The_Social_Network"
+                  points="-2254.878418,1417.517944 -2251.901123,1415.973267 -2251.856201,1418.973022"
+                  stroke="none"/>
+        <polyline fill="#c26772" fill-opacity="1.0"
+                  class="id_Social_network id_Natter_(social_network)"
+                  points="-1230.202393,416.654724 -1232.934082,418.601044 -1233.398438,415.637238"
+                  stroke="none"/>
+        <polyline fill="#7d1b90" fill-opacity="1.0"
+                  class="id_Social_network id_Social_network_service"
+                  points="-2256.572754,1253.322632 -2253.361328,1254.289673 -2255.419434,1256.472046"
+                  stroke="none"/>
+        <polyline fill="#7d1b90" fill-opacity="1.0"
+                  class="id_Social_network id_Social_science"
+                  points="-4574.173828,-1768.015747 -4572.539063,-1765.086914 -4575.536133,-1764.950684"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Complex_contagion id_Collective_behavior"
+                  points="2041.179077,3728.647949 2042.206421,3731.841064 2039.241089,3731.385498"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Flow_network id_Chartrand,_Gary"
+                  points="283.532806,-3913.696777 285.452332,-3910.946289 282.484070,-3910.510742"
+                  stroke="none"/>
+        <polyline fill="#c5606b" fill-opacity="1.0"
+                  class="id_Scale-free_network id_Random_network"
+                  points="-2771.181396,-745.243835 -2767.856934,-744.799500 -2769.542480,-742.317566"
+                  stroke="none"/>
+        <polyline fill="#be596e" fill-opacity="1.0"
+                  class="id_Scale-free_network id_Scientific_collaboration_network"
+                  points="-1404.830933,543.261963 -1406.594482,540.408875 -1403.606689,540.139343"
+                  stroke="none"/>
+        <polyline fill="#c5606b" fill-opacity="1.0"
+                  class="id_Scale-free_network id_Network_motif"
+                  points="-1773.547241,-1141.303467 -1776.774658,-1140.390381 -1776.214111,-1143.337646"
+                  stroke="none"/>
+        <polyline fill="#9f367c" fill-opacity="1.0"
+                  class="id_Scale-free_network id_Efficiency_(network_science)"
+                  points="-658.131775,-552.694458 -661.352234,-553.631775 -659.314270,-555.833191"
+                  stroke="none"/>
+        <polyline fill="#c5606b" fill-opacity="1.0"
+                  class="id_Scale-free_network id_Agent-based_model"
+                  points="-5130.140625,-5353.161621 -5129.059570,-5349.986328 -5132.032227,-5350.391602"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Spatial_network id_Neural_network"
+                  points="-262.988281,-1038.308350 -262.794342,-1034.959717 -265.550690,-1036.144043"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Spatial_network id_Transportation_network_(graph_theory)"
+                  points="-245.880066,-372.899048 -243.699387,-370.350616 -246.610428,-369.625458"
+                  stroke="none"/>
+        <polyline fill="#7e89c7" fill-opacity="1.0"
+                  class="id_Evolving_network id_Average_path_length"
+                  points="-349.205139,853.858398 -352.152527,855.459290 -352.254272,852.460999"
+                  stroke="none"/>
+        <polyline fill="#c86e6f" fill-opacity="1.0"
+                  class="id_Evolving_network id_Social_network"
+                  points="-1990.370361,1323.829590 -1987.026489,1324.090088 -1988.572388,1326.661133"
+                  stroke="none"/>
+        <polyline fill="#d1595b" fill-opacity="1.0"
+                  class="id_Evolving_network id_Small-world_network"
+                  points="-122.615448,634.162109 -125.507698,635.860535 -125.709587,632.867371"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Biological_network id_Biological_neural_network"
+                  points="-1217.182983,-2697.275146 -1216.419312,-2694.009033 -1219.337524,-2694.704346"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Biological_network id_Weighted_network"
+                  points="-566.820313,-835.588867 -566.838562,-838.942932 -564.148010,-837.615906"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Biological_network id_Gene_regulatory_network"
+                  points="-1183.655762,-1281.298584 -1180.347656,-1281.852539 -1181.227783,-1278.984619"
+                  stroke="none"/>
+        <polyline fill="#919ebf" fill-opacity="1.0"
+                  class="id_Artificial_Intelligence id_Artificial_Intelligence_Act"
+                  points="-5272.288086,-6628.442383 -5273.675781,-6631.496094 -5270.677734,-6631.384766"
+                  stroke="none"/>
+        <polyline fill="#919ebf" fill-opacity="1.0"
+                  class="id_Artificial_Intelligence id_Artificial_intelligence_art"
+                  points="-10169.408203,-8335.670898 -10166.056641,-8335.801758 -10167.292969,-8333.067383"
+                  stroke="none"/>
+        <polyline fill="#919ebf" fill-opacity="1.0"
+                  class="id_Artificial_Intelligence id_Weak_artificial_intelligence"
+                  points="-8350.333984,-7568.675781 -8347.632813,-7570.663086 -8347.123047,-7567.707031"
+                  stroke="none"/>
+        <polyline fill="#919ebf" fill-opacity="1.0"
+                  class="id_Artificial_Intelligence id_Frame_(artificial_intelligence)"
+                  points="-6187.618652,-10253.013672 -6189.887695,-10250.542969 -6190.956055,-10253.345703"
+                  stroke="none"/>
+        <polyline fill="#919ebf" fill-opacity="1.0"
+                  class="id_Artificial_Intelligence id_Friendly_artificial_intelligence"
+                  points="-7820.498535,-10865.852539 -7819.608887,-10862.618164 -7822.552246,-10863.200195"
+                  stroke="none"/>
+        <polyline fill="#919ebf" fill-opacity="1.0"
+                  class="id_Artificial_Intelligence id_Symbolic_artificial_intelligence"
+                  points="-4485.527344,-8149.728516 -4488.421875,-8151.422363 -4485.909180,-8153.061035"
+                  stroke="none"/>
+        <polyline fill="#919ebf" fill-opacity="1.0"
+                  class="id_Artificial_Intelligence id_Ethics_of_artificial_intelligence"
+                  points="-7152.460449,-5352.820313 -7151.682129,-5356.083008 -7149.383301,-5354.155273"
+                  stroke="none"/>
+        <polyline fill="#919ebf" fill-opacity="1.0"
+                  class="id_Artificial_Intelligence id_Music_and_artificial_intelligence"
+                  points="-1359.092651,-7923.192383 -1362.209473,-7924.431152 -1359.971436,-7926.429199"
+                  stroke="none"/>
+        <polyline fill="#919ebf" fill-opacity="1.0"
+                  class="id_Artificial_Intelligence id_Scripts_(artificial_intelligence)"
+                  points="-6517.179199,-8463.710938 -6518.662109,-8466.719727 -6515.662109,-8466.702148"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Artificial_Intelligence_Act id_Artificial_general_intelligence"
+                  points="-3906.669434,-5320.667480 -3908.706787,-5323.332031 -3905.760498,-5323.896484"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Artificial_intelligence_art id_Artificial_intelligence_systems_integration"
+                  points="-9958.837891,-8153.741699 -9961.087891,-8156.229492 -9958.197266,-8157.034180"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Weak_artificial_intelligence id_Antonio_Lieto"
+                  points="-9140.366211,-7678.754883 -9137.205078,-7677.632813 -9139.367188,-7675.552734"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Weak_artificial_intelligence id_Cognitive_modelling"
+                  points="-7394.617188,-6830.437012 -7396.953613,-6832.842773 -7394.094238,-6833.750000"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Frame_(artificial_intelligence) id_Intelligent_agent"
+                  points="-6690.632813,-10591.050781 -6688.048340,-10588.913086 -6690.792480,-10587.700195"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Frame_(artificial_intelligence) id_DARPA_Agent_Markup_Language"
+                  points="-5732.362305,-9600.834961 -5733.531738,-9603.978516 -5730.549316,-9603.656250"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Friendly_artificial_intelligence id_Ambient_intelligence"
+                  points="-7296.636719,-10891.399414 -7299.892090,-10892.207031 -7297.942871,-10894.488281"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Symbolic_artificial_intelligence id_Symbolic_mathematics"
+                  points="-2801.455078,-6759.819336 -2803.642334,-6762.362305 -2800.733154,-6763.094727"
+                  stroke="none"/>
+        <polyline fill="#7f89c8" fill-opacity="1.0"
+                  class="id_Symbolic_artificial_intelligence id_Symbolic_programming"
+                  points="-4894.975098,-8646.804688 -4893.360840,-8643.864258 -4896.358887,-8643.749023"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Symbolic_artificial_intelligence id_Neuro-symbolic_AI"
+                  points="-4510.583984,-7226.520996 -4509.771484,-7229.775391 -4507.493164,-7227.823242"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Ethics_of_artificial_intelligence id_Philosophy_of_social_science"
+                  points="-5913.306641,-3528.278320 -5914.748535,-3531.306641 -5911.749512,-3531.249023"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Music_and_artificial_intelligence id_Machine_learning_in_earth_sciences"
+                  points="2247.321045,-9766.084961 2244.124268,-9765.069336 2244.590576,-9768.032227"
+                  stroke="none"/>
+        <polyline fill="#c26772" fill-opacity="1.0"
+                  class="id_Music_and_artificial_intelligence id_Artificial_neural_network"
+                  points="-555.182556,-4223.134766 -555.271484,-4226.488281 -552.553589,-4225.217773"
+                  stroke="none"/>
+        <polyline fill="#7882ca" fill-opacity="1.0"
+                  class="id_Scripts_(artificial_intelligence) id_Conceptual_dependency_theory"
+                  points="-6308.561035,-7962.862793 -6309.447266,-7966.097656 -6306.504883,-7965.512695"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Scripts_(artificial_intelligence) id_Knowledge_representation"
+                  points="-6243.907227,-8881.981445 -6246.055664,-8879.405273 -6247.256836,-8882.155273"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Scripts_(artificial_intelligence) id_Natural-language_understanding"
+                  points="-6181.313477,-7693.751465 -6182.193359,-7696.988281 -6179.251953,-7696.397461"
+                  stroke="none"/>
+        <polyline fill="#919ebf" fill-opacity="1.0"
+                  class="id_Climate_Change id_Climate_change_art"
+                  points="-21378.285156,16731.593750 -21375.082031,16732.585938 -21377.156250,16734.753906"
+                  stroke="none"/>
+        <polyline fill="#919ebf" fill-opacity="1.0"
+                  class="id_Climate_Change id_Abrupt_climate_change"
+                  points="-16786.460938,15066.301758 -16789.419922,15067.879883 -16789.498047,15064.881836"
+                  stroke="none"/>
+        <polyline fill="#919ebf" fill-opacity="1.0"
+                  class="id_Climate_Change id_Climate_change_denial"
+                  points="-20279.980469,14769.002930 -20279.103516,14772.240234 -20282.044922,14771.646484"
+                  stroke="none"/>
+        <polyline fill="#919ebf" fill-opacity="1.0"
+                  class="id_Climate_Change id_Nature_Climate_Change"
+                  points="-16909.611328,16922.697266 -16912.929688,16922.203125 -16911.207031,16919.746094"
+                  stroke="none"/>
+        <polyline fill="#919ebf" fill-opacity="1.0"
+                  class="id_Climate_Change id_Climate_change_in_Asia"
+                  points="-22250.732422,15423.386719 -22248.078125,15425.437500 -22250.781250,15426.740234"
+                  stroke="none"/>
+        <polyline fill="#97a5bc" fill-opacity="1.0"
+                  class="id_Climate_Change id_Climate_change_scenario"
+                  points="-18703.400391,19650.146484 -18703.447266,19646.791016 -18700.744141,19648.095703"
+                  stroke="none"/>
+        <polyline fill="#919ebf" fill-opacity="1.0"
+                  class="id_Climate_Change id_Causes_of_climate_change"
+                  points="-19316.171875,18257.259766 -19315.335938,18254.009766 -19313.070313,18255.978516"
+                  stroke="none"/>
+        <polyline fill="#919ebf" fill-opacity="1.0"
+                  class="id_Climate_Change id_Climate_change_and_birds"
+                  points="-18852.751953,14946.085938 -18853.927734,14949.228516 -18855.970703,14947.031250"
+                  stroke="none"/>
+        <polyline fill="#919ebf" fill-opacity="1.0"
+                  class="id_Climate_Change id_Climate_change_and_crime"
+                  points="-17053.382813,19334.595703 -17055.189453,19331.769531 -17052.205078,19331.457031"
+                  stroke="none"/>
+        <polyline fill="#be596e" fill-opacity="1.0"
+                  class="id_Climate_Change id_Climate_change_feedback"
+                  points="-15566.467773,14307.451172 -15569.482422,14308.922852 -15569.453125,14305.922852"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Climate_change_art id_Climate_change"
+                  points="-21858.759766,16275.097656 -21856.771484,16277.799805 -21859.728516,16278.309570"
+                  stroke="none"/>
+        <polyline fill="#c5606b" fill-opacity="1.0"
+                  class="id_Abrupt_climate_change id_Climate_change_feedback"
+                  points="-15566.297852,14302.610352 -15569.383789,14303.925781 -15569.202148,14300.931641"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Climate_change_denial id_ExxonMobil_climate_change_denial"
+                  points="-19915.490234,14432.991211 -19918.453125,14434.567383 -19918.527344,14431.567383"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Climate_change_denial id_Climate_Change_Denial:_Heads_in_the_Sand"
+                  points="-19980.710938,14714.210938 -19984.003906,14713.573242 -19982.175781,14711.194336"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Nature_Climate_Change id_Atmospheric_science"
+                  points="-16201.833008,16264.651367 -16204.535156,16266.636719 -16205.042969,16263.679688"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Climate_change_in_Asia id_Climate_change_in_Somalia"
+                  points="-22250.855469,15626.013672 -22250.619141,15622.667969 -22248.037109,15624.195313"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Climate_change_scenario id_Effects_of_climate_change_on_agriculture"
+                  points="-18054.132813,19775.966797 -18057.357422,19775.044922 -18055.330078,19772.833984"
+                  stroke="none"/>
+        <polyline fill="#919ebf" fill-opacity="1.0"
+                  class="id_Causes_of_climate_change id_Effects_of_climate_change_on_the_water_cycle"
+                  points="-19004.570313,19044.478516 -19005.449219,19041.242188 -19002.507813,19041.832031"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Climate_change_and_birds id_Climate_change_and_civilizational_collapse"
+                  points="-19276.867188,14856.136719 -19273.642578,14857.059570 -19275.669922,14859.270508"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Climate_change_and_birds id_History_of_climate_change_policy_and_politics"
+                  points="-19188.201172,14587.149414 -19186.042969,14589.717773 -19188.960938,14590.416992"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Climate_change_and_birds id_Climate_risk"
+                  points="-18067.861328,14458.542969 -18070.996094,14459.738281 -18070.699219,14456.753906"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Climate_change_and_crime id_Climate-smart_agriculture"
+                  points="-17438.527344,19722.650391 -17435.617188,19720.984375 -17435.449219,19723.980469"
+                  stroke="none"/>
+        <polyline fill="#8b97c2" fill-opacity="1.0"
+                  class="id_Earth id_Early_Earth"
+                  points="12028.944336,-16963.390625 12030.830078,-16960.617188 12027.857422,-16960.218750"
+                  stroke="none"/>
+        <polyline fill="#8b97c2" fill-opacity="1.0"
+                  class="id_Earth id_Earth&apos;s_age"
+                  points="9534.043945,-13418.551758 9537.348633,-13419.126953 9536.487305,-13416.253906"
+                  stroke="none"/>
+        <polyline fill="#8b97c2" fill-opacity="1.0"
+                  class="id_Earth id_Age_of_Earth"
+                  points="13195.031250,-18080.937500 13195.218750,-18077.589844 13192.464844,-18078.777344"
+                  stroke="none"/>
+        <polyline fill="#8b97c2" fill-opacity="1.0"
+                  class="id_Earth id_Earth_radius"
+                  points="11270.749023,-10506.215820 11272.935547,-10508.759766 11274.095703,-10505.992188"
+                  stroke="none"/>
+        <polyline fill="#8590c5" fill-opacity="1.0"
+                  class="id_Earth id_Earth_symbol"
+                  points="12964.395508,-15273.219727 12967.453125,-15271.840820 12965.126953,-15269.946289"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Early_Earth id_Secondary_atmosphere"
+                  points="12255.192383,-17485.158203 12253.171875,-17482.480469 12251.837891,-17485.167969"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Earth&apos;s_age id_Earth_science"
+                  points="5933.625000,-11587.150391 5936.827637,-11588.147461 5936.344238,-11585.186523"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Age_of_Earth id_Journal_of_Geophysical_Research"
+                  points="12861.480469,-17967.224609 12864.714844,-17968.111328 12864.130859,-17965.169922"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_Earth_radius id_Earth_tide"
+                  points="8410.620117,-6971.212402 8413.146484,-6973.417969 8413.900391,-6970.513672"
+                  stroke="none"/>
+        <polyline fill="#919ebf" fill-opacity="1.0"
+                  class="id_Earth_symbol id_Solar_symbol"
+                  points="12560.485352,-15210.901367 12563.819336,-15211.270508 12562.782227,-15208.456055"
+                  stroke="none"/>
+        <polyline fill="#bb6075" fill-opacity="1.0"
+                  class="id_Earth_symbol id_Planetary_symbol"
+                  points="12319.952148,-15345.871094 12323.223633,-15345.133789 12321.325195,-15342.811523"
+                  stroke="none"/>
+        <polyline fill="#97a5bc" fill-opacity="1.0"
+                  class="id_Earth_symbol id_Astronomical_symbol"
+                  points="12649.370117,-15399.055664 12652.382813,-15397.581055 12649.998047,-15395.760742"
+                  stroke="none"/>
+        <polyline fill="#801489" fill-opacity="1.0"
+                  class="id_Complex_network id_Complex_adaptive_system"
+                  points="1800.488892,3079.565674 1799.590576,3076.333984 1802.535156,3076.908203"
+                  stroke="none"/>
+        <polyline fill="#801489" fill-opacity="1.0"
+                  class="id_Complex_network id_Complex_system"
+                  points="480.487762,2802.058350 483.244476,2800.147705 483.670258,2803.117432"
+                  stroke="none"/>
+        <polyline fill="#f80d0d" fill-opacity="1.0"
+                  class="id_Complex_network id_Small-world_network"
+                  points="-8.116928,726.342468 -6.191524,729.088867 -9.158820,729.530640"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Dependency_network id_Semantic_network"
+                  points="861.185364,-842.688721 861.146790,-846.042603 863.845276,-844.731934"
+                  stroke="none"/>
+        <polyline fill="#98a5bd" fill-opacity="1.0"
+                  class="id_G-network id_Neural_network"
+                  points="-186.449448,-1063.037354 -183.105118,-1062.781616 -184.647507,-1060.208374"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Balance_theory id_Social_Network"
+                  points="-646.132690,-77.934792 -643.398438,-79.877487 -642.937988,-76.913040"
+                  stroke="none"/>
+        <polyline fill="#c86e6f" fill-opacity="1.0"
+                  class="id_Artificial_neural_network id_Biological_neural_network"
+                  points="-1147.739258,-2791.931396 -1145.933960,-2794.758301 -1144.394653,-2792.183105"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Climate_system id_Complex_system"
+                  points="415.833038,2810.294189 413.017639,2812.117188 412.685364,2809.135742"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Climatology id_Climate_model"
+                  points="-8081.738281,9036.851563 -8078.727051,9035.373047 -8078.749512,9038.373047"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Time-series id_Tide"
+                  points="5450.412598,-3489.377197 5447.846191,-3487.217041 5447.145020,-3490.134033"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_The_Social_Network id_Social_network_service"
+                  points="-2301.763428,1255.473633 -2302.612305,1258.718506 -2304.868652,1256.741455"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Natter_(social_network) id_Social_Network"
+                  points="-710.508606,-67.698067 -713.228760,-65.735764 -713.710571,-68.696823"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Collective_behavior id_Complex_adaptive_system"
+                  points="1788.503662,3143.637695 1789.450928,3146.855225 1786.498047,3146.325928"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Chartrand,_Gary id_Mathematician"
+                  points="-1246.758911,-5313.885742 -1244.676392,-5311.256836 -1247.612915,-5310.642578"
+                  stroke="none"/>
+        <polyline fill="#c5606b" fill-opacity="1.0"
+                  class="id_Random_network id_Scale-free_network"
+                  points="-2653.018066,-799.570679 -2656.367676,-799.742615 -2654.890137,-802.353577"
+                  stroke="none"/>
+        <polyline fill="#97a5bc" fill-opacity="1.0"
+                  class="id_Scientific_collaboration_network id_Evolving_network"
+                  points="-797.685425,1139.694458 -799.751465,1137.052246 -796.811279,1136.456299"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Network_motif id_Gene_regulatory_network"
+                  points="-1306.791016,-1313.590210 -1310.042114,-1312.765503 -1309.401489,-1315.696411"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Neural_network id_Neural_circuit"
+                  points="-728.033020,-1915.578003 -726.853638,-1912.437988 -729.837280,-1912.750488"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Transportation_network_(graph_theory) id_Food_web"
+                  points="-412.840302,-562.016235 -410.695740,-559.437317 -413.616699,-558.753235"
+                  stroke="none"/>
+        <polyline fill="#7882ca" fill-opacity="1.0"
+                  class="id_Efficiency_(network_science) id_Spatial_network"
+                  points="-98.633179,-281.615417 -101.392021,-283.523010 -98.762428,-284.967041"
+                  stroke="none"/>
+        <polyline fill="#7882ca" fill-opacity="1.0"
+                  class="id_Efficiency_(network_science) id_Weighted_network"
+                  points="-631.137817,-725.995178 -631.604309,-722.673706 -634.074890,-724.375488"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Agent-based_model id_Cognitive_model"
+                  points="-4816.936035,-6285.726563 -4818.586426,-6282.806152 -4820.262207,-6285.294434"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Agent-based_model id_Large_language_model"
+                  points="-5670.663086,-6465.929688 -5669.664551,-6462.728027 -5672.625488,-6463.209473"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Agent-based_model id_Computational_model"
+                  points="-6240.844727,-6057.750977 -6238.280762,-6055.587891 -6241.036621,-6054.402344"
+                  stroke="none"/>
+        <polyline fill="#ac306c" fill-opacity="1.0"
+                  class="id_Average_path_length id_Small-world_network"
+                  points="-120.651871,648.247314 -123.273941,650.338928 -123.898392,647.404602"
+                  stroke="none"/>
+        <polyline fill="#5960d8" fill-opacity="1.0"
+                  class="id_Biological_neural_network id_Neural_circuit"
+                  points="-721.755493,-1980.458130 -722.984253,-1983.579102 -719.995972,-1983.313721"
+                  stroke="none"/>
+        <polyline fill="#5960d8" fill-opacity="1.0"
+                  class="id_Biological_neural_network id_Biological_neuron_model"
+                  points="-2589.352051,-4025.424316 -2587.317139,-4022.758301 -2590.263916,-4022.196777"
+                  stroke="none"/>
+        <polyline fill="#5960d8" fill-opacity="1.0"
+                  class="id_Weighted_network id_Food_web"
+                  points="-426.691101,-625.704407 -428.752533,-628.350281 -425.811310,-628.941101"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Artificial_general_intelligence id_Biological_neuron_model"
+                  points="-2601.689697,-4089.431152 -2603.736084,-4092.089111 -2600.791260,-4092.662842"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Artificial_intelligence_systems_integration id_Cognitive_architecture"
+                  points="-9591.779297,-7936.547852 -9594.548828,-7938.439941 -9591.927734,-7939.898926"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Antonio_Lieto id_Cognitive_architecture"
+                  points="-9559.281250,-7880.048828 -9556.458984,-7878.235840 -9559.039063,-7876.703613"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Cognitive_modelling id_Computational_model"
+                  points="-6266.298828,-6117.759766 -6268.839844,-6119.949219 -6266.072266,-6121.106445"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_DARPA_Agent_Markup_Language id_Expert_system"
+                  points="-5250.814941,-9086.117188 -5252.830078,-9088.798828 -5249.878906,-9089.337891"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_DARPA_Agent_Markup_Language id_Knowledge_graph"
+                  points="-5926.842773,-9242.737305 -5924.585449,-9245.218750 -5923.504395,-9242.419922"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Ambient_intelligence id_Intelligent_agent"
+                  points="-6754.171387,-10700.602539 -6757.158691,-10702.127930 -6754.743652,-10703.907227"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Symbolic_mathematics id_Mathematician"
+                  points="-1260.354004,-5377.637207 -1262.457031,-5380.250488 -1259.525391,-5380.887207"
+                  stroke="none"/>
+        <polyline fill="#3a3de6" fill-opacity="1.0"
+                  class="id_Symbolic_programming id_Expert_system"
+                  points="-5239.353027,-9021.948242 -5237.359863,-9019.250000 -5240.314941,-9018.734375"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Neuro-symbolic_AI id_Cognitive_model"
+                  points="-4764.642090,-6324.528809 -4763.264648,-6327.586914 -4761.369141,-6325.261719"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Philosophy_of_social_science id_Social_science"
+                  points="-4577.062988,-1833.136841 -4578.691406,-1836.069214 -4575.694336,-1836.198853"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Machine_learning_in_earth_sciences id_Earth_science"
+                  points="5807.831055,-11607.360352 5804.634277,-11606.346680 5805.102051,-11609.309570"
+                  stroke="none"/>
+        <polyline fill="#7e89c7" fill-opacity="1.0"
+                  class="id_Conceptual_dependency_theory id_Natural-language_understanding"
+                  points="-6187.335449,-7694.664551 -6188.520508,-7697.802734 -6185.536133,-7697.495117"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Knowledge_representation id_Knowledge_graph"
+                  points="-5987.711914,-9219.413086 -5989.983887,-9216.945313 -5991.049316,-9219.750000"
+                  stroke="none"/>
+        <polyline fill="#5960d8" fill-opacity="1.0"
+                  class="id_Natural-language_understanding id_Large_language_model"
+                  points="-5659.272461,-6530.104980 -5660.178711,-6533.334473 -5657.232422,-6532.768066"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Climate_change id_Land-use_change"
+                  points="-22078.716797,15979.250000 -22076.955078,15982.104492 -22079.943359,15982.372070"
+                  stroke="none"/>
+        <polyline fill="#c5606b" fill-opacity="1.0"
+                  class="id_Climate_change_feedback id_Climate_science"
+                  points="-15682.576172,15555.993164 -15681.439453,15552.837891 -15679.369141,15555.009766"
+                  stroke="none"/>
+        <polyline fill="#cb6768" fill-opacity="1.0"
+                  class="id_Climate_change_feedback id_Climate_model"
+                  points="-8209.136719,9035.409180 -8212.160156,9036.863281 -8212.113281,9033.863281"
+                  stroke="none"/>
+        <polyline fill="#c5606b" fill-opacity="1.0"
+                  class="id_Climate_change_feedback id_Climate_resilience"
+                  points="-16601.900391,14118.079102 -16598.744141,14119.212891 -16600.916016,14121.285156"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_ExxonMobil_climate_change_denial id_Climate_sceptic"
+                  points="-19549.140625,14446.383789 -19552.412109,14445.642578 -19550.509766,14443.322266"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Climate_Change_Denial:_Heads_in_the_Sand id_Climate_scientist"
+                  points="-19653.042969,14761.027344 -19656.324219,14760.335938 -19654.457031,14757.986328"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Climate_change_in_Somalia id_Land-use_change"
+                  points="-22083.636719,15914.256836 -22085.320313,15911.355469 -22082.324219,15911.169922"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Effects_of_climate_change_on_agriculture id_Climate-smart_agriculture"
+                  points="-17561.097656,19702.128906 -17564.443359,19702.380859 -17563.306641,19699.603516"
+                  stroke="none"/>
+        <polyline fill="#97a5bc" fill-opacity="1.0"
+                  class="id_Effects_of_climate_change_on_the_water_cycle id_Climate_change_scenario"
+                  points="-18721.951172,19644.474609 -18723.005859,19641.289063 -18720.037109,19641.718750"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Climate_change_and_civilizational_collapse id_Climate_scientist"
+                  points="-19602.246094,14801.877930 -19598.972656,14802.609375 -19600.867188,14804.935547"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_History_of_climate_change_policy_and_politics id_Climate_sceptic"
+                  points="-19500.414063,14489.607422 -19497.210938,14490.602539 -19499.289063,14492.766602"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Climate_risk id_Climate_hazard"
+                  points="-17360.062500,14245.345703 -17363.378906,14245.845703 -17362.453125,14242.992188"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Climate_science id_Atmospheric_science"
+                  points="-16080.822266,16228.029297 -16078.688477,16225.441406 -16077.471680,16228.183594"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Climate_resilience id_Climate_hazard"
+                  points="-17298.496094,14266.723633 -17295.162109,14266.357422 -17296.201172,14269.171875"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Secondary_atmosphere id_Asteroid"
+                  points="12523.148438,-17748.023438 12520.501953,-17745.962891 12519.912109,-17748.904297"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Journal_of_Geophysical_Research id_Asteroid"
+                  points="12587.283203,-17759.609375 12590.005859,-17761.568359 12590.484375,-17758.607422"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Earth_tide id_Tide"
+                  points="5513.763184,-3504.732422 5516.321289,-3506.901367 5517.033203,-3503.986816"
+                  stroke="none"/>
+        <polyline fill="#9eacba" fill-opacity="1.0"
+                  class="id_Solar_symbol id_Astronomical_symbol"
+                  points="12559.392578,-15411.966797 12557.864258,-15408.981445 12556.086914,-15411.399414"
+                  stroke="none"/>
+        <polyline fill="#5359db" fill-opacity="1.0"
+                  class="id_Solar_symbol id_Astrological_symbol"
+                  points="12393.879883,-15353.490234 12395.671875,-15350.655273 12392.687500,-15350.354492"
+                  stroke="none"/>
+        <polyline fill="#7d1b90" fill-opacity="1.0"
+                  class="id_Planetary_symbol id_Astrological_symbol"
+                  points="12364.133789,-15404.913086 12360.821289,-15405.443359 12362.569336,-15407.880859"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#d95250" r="77.68889" cx="328.89505"
+                class="id_Complex_Network" cy="855.0343" stroke="#973938"
+                stroke-opacity="1.0" stroke-width="13.51111"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="2456.5054"
+                class="id_Computer_network" cy="2120.4539" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="341.482"
+                class="id_Boolean_network" cy="-1040.0334" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-540.2046"
+                class="id_Climate_networks" cy="3425.6692" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#ec2928" r="84.844444" cx="-2069.4043"
+                class="id_Social_network" cy="1276.305" stroke="#a51c1c"
+                stroke-opacity="1.0" stroke-width="14.755555"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="2264.2776"
+                class="id_Complex_contagion" cy="4149.6143" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="1678.0956"
+                class="id_Flow_network" cy="-2527.0037" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#f21b1a" r="87.22963" cx="-2570.4985"
+                class="id_Scale-free_network" cy="-752.8761" stroke="#a91212"
+                stroke-opacity="1.0" stroke-width="15.170369"/>
+        <circle fill-opacity="1.0" fill="#a4b3b7" r="58.607407" cx="-67.96954"
+                class="id_Spatial_network" cy="-225.77724" stroke="#727d80"
+                stroke-opacity="1.0" stroke-width="10.192593"/>
+        <circle fill-opacity="1.0" fill="#a4b3b7" r="58.607407" cx="-785.031"
+                class="id_Evolving_network" cy="1202.1287" stroke="#727d80"
+                stroke-opacity="1.0" stroke-width="10.192593"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-682.03644"
+                class="id_Biological_network" cy="-1460.0978" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#8b97c2" r="53.837036" cx="-6949.2153"
+                class="id_Artificial_Intelligence" cy="-9049.806"
+                stroke="#616987" stroke-opacity="1.0" stroke-width="9.362963"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-5274.5596"
+                class="id_Artificial_Intelligence_Act" cy="-6567.3735"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-10225.09"
+                class="id_Artificial_intelligence_art" cy="-8360.853"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-8410.559"
+                class="id_Weak_artificial_intelligence" cy="-7558.3047"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-6130.517"
+                class="id_Frame_(artificial_intelligence)" cy="-10274.784"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-7808.6406"
+                class="id_Friendly_artificial_intelligence" cy="-10925.802"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-4452.1543"
+                class="id_Symbolic_artificial_intelligence" cy="-8098.5347"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-7191.733"
+                class="id_Ethics_of_artificial_intelligence" cy="-5305.999"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-1318.397"
+                class="id_Music_and_artificial_intelligence" cy="-7877.6025"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-6517.534"
+                class="id_Scripts_(artificial_intelligence)" cy="-8402.601"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#8b97c2" r="53.837036" cx="-19223.227"
+                class="id_Climate_Change" cy="16993.984" stroke="#616987"
+                stroke-opacity="1.0" stroke-width="9.362963"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-21422.42"
+                class="id_Climate_change_art" cy="16689.324" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-16725.371"
+                class="id_Abrupt_climate_change" cy="15064.691" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-20267.877"
+                class="id_Climate_change_denial" cy="14709.103" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-16859.59"
+                class="id_Nature_Climate_Change" cy="16957.803" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-22277.273"
+                class="id_Climate_change_in_Asia" cy="15368.34" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#a4b3b7" r="58.607407" cx="-18731.084"
+                class="id_Climate_change_scenario" cy="19707.52"
+                stroke="#727d80" stroke-opacity="1.0" stroke-width="10.192593"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-19356.262"
+                class="id_Causes_of_climate_change" cy="18303.383"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-18808.004"
+                class="id_Climate_change_and_birds" cy="14904.467"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-17047.002"
+                class="id_Climate_change_and_crime" cy="19395.373"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#7f89c8" r="51.45185" cx="13926.164"
+                class="id_Earth" cy="-15031.875" stroke="#585f8c"
+                stroke-opacity="1.0" stroke-width="8.948148"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="12020.804"
+                class="id_Early_Earth" cy="-17023.957" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="9475.504"
+                class="id_Earth&apos;s_age" cy="-13436.091" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="13219.255"
+                class="id_Age_of_Earth" cy="-18137.043" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="11214.392"
+                class="id_Earth_radius" cy="-10482.586" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#8b97c2" r="53.837036" cx="12927.452"
+                class="id_Earth_symbol" cy="-15318.603" stroke="#616987"
+                stroke-opacity="1.0" stroke-width="9.362963"/>
+        <circle fill-opacity="1.0" fill="#f21b1a" r="87.22963" cx="1281.1876"
+                class="id_Complex_network" cy="2003.0723" stroke="#a91212"
+                stroke-opacity="1.0" stroke-width="15.170369"/>
+        <circle fill-opacity="1.0" fill="#a4b3b7" r="58.607407" cx="833.3537"
+                class="id_Semantic_network" cy="-785.38635" stroke="#727d80"
+                stroke-opacity="1.0" stroke-width="10.192593"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="828.7539"
+                class="id_Dependency_network" cy="-1019.5577" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="92.0" cx="-22.842136"
+                class="id_Small-world_network" cy="627.43256" stroke="#b20000"
+                stroke-opacity="1.0" stroke-width="16.0"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="61.650967"
+                class="id_G-network" cy="-1086.999" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-171.66777"
+                class="id_Balance_theory" cy="-561.5451" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#ec2928" r="84.844444" cx="-594.22437"
+                class="id_Artificial_neural_network" cy="-4139.5845"
+                stroke="#a51c1c" stroke-opacity="1.0" stroke-width="14.755555"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="5.4651895"
+                class="id_Climate_system" cy="3193.5715" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-4359.167"
+                class="id_Climatology" cy="6289.6143" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="2585.0042"
+                class="id_Time-series" cy="-29.128717" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-2315.9827"
+                class="id_The_Social_Network" cy="1418.4318" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-1169.828"
+                class="id_Natter_(social_network)" cy="407.19434"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="2050.4558"
+                class="id_Collective_behavior" cy="3668.245" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="274.6639"
+                class="id_Chartrand,_Gary" cy="-3974.161" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-2821.7383"
+                class="id_Random_network" cy="-779.5743" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#8b97c2" r="53.837036" cx="-1399.5725"
+                class="id_Scientific_collaboration_network" cy="601.54376"
+                stroke="#616987" stroke-opacity="1.0" stroke-width="9.362963"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-1713.5125"
+                class="id_Network_motif" cy="-1129.8845" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-238.86505"
+                class="id_Neural_network" cy="-1094.4567" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-260.6518"
+                class="id_Transportation_network_(graph_theory)" cy="-432.198"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#4d52de" r="41.911114" cx="-624.702"
+                class="id_Efficiency_(network_science)" cy="-521.74677"
+                stroke="#35399b" stroke-opacity="1.0" stroke-width="7.288889"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-5121.891"
+                class="id_Agent-based_model" cy="-5413.7134" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#5960d8" r="44.296295" cx="-301.0847"
+                class="id_Average_path_length" cy="852.2255" stroke="#3e4397"
+                stroke-opacity="1.0" stroke-width="7.7037034"/>
+        <circle fill-opacity="1.0" fill="#a4b3b7" r="58.607407" cx="-1202.4174"
+                class="id_Biological_neural_network" cy="-2759.244"
+                stroke="#727d80" stroke-opacity="1.0" stroke-width="10.192593"/>
+        <circle fill-opacity="1.0" fill="#a4b3b7" r="58.607407" cx="-595.00024"
+                class="id_Weighted_network" cy="-778.457" stroke="#727d80"
+                stroke-opacity="1.0" stroke-width="10.192593"/>
+        <circle fill-opacity="1.0" fill="#a4b3b7" r="58.607407" cx="-1244.557"
+                class="id_Gene_regulatory_network" cy="-1299.9854"
+                stroke="#727d80" stroke-opacity="1.0" stroke-width="10.192593"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-3895.177"
+                class="id_Artificial_general_intelligence" cy="-5260.647"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-9942.447"
+                class="id_Artificial_intelligence_systems_integration"
+                cy="-8094.8696" stroke="#6a7384" stroke-opacity="1.0"
+                stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-9182.739"
+                class="id_Antonio_Lieto" cy="-7722.79" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-7376.146"
+                class="id_Cognitive_modelling" cy="-6772.184" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#a4b3b7" r="58.607407" cx="-6716.3804"
+                class="id_Intelligent_agent" cy="-10649.319" stroke="#727d80"
+                stroke-opacity="1.0" stroke-width="10.192593"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-5738.925"
+                class="id_DARPA_Agent_Markup_Language" cy="-9540.077"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-7250.1763"
+                class="id_Ambient_intelligence" cy="-10851.7" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-2786.5295"
+                class="id_Symbolic_mathematics" cy="-6700.559" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#666ed3" r="46.68148" cx="-4896.926"
+                class="id_Symbolic_programming" cy="-8697.508" stroke="#474d93"
+                stroke-opacity="1.0" stroke-width="8.118519"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-4550.342"
+                class="id_Neuro-symbolic_AI" cy="-7180.111" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-5914.4814"
+                class="id_Philosophy_of_social_science" cy="-3467.1785"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="2307.6902"
+                class="id_Machine_learning_in_earth_sciences" cy="-9756.591"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#5960d8" r="44.296295" cx="-6317.946"
+                class="id_Conceptual_dependency_theory" cy="-7915.638"
+                stroke="#3e4397" stroke-opacity="1.0" stroke-width="7.7037034"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-6187.907"
+                class="id_Knowledge_representation" cy="-8906.446"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#a4b3b7" r="58.607407" cx="-6193.8643"
+                class="id_Natural-language_understanding" cy="-7631.2964"
+                stroke="#727d80" stroke-opacity="1.0" stroke-width="10.192593"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-21869.152"
+                class="id_Climate_change" cy="16214.877" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#f21b1a" r="87.22963" cx="-15471.657"
+                class="id_Climate_change_feedback" cy="14308.351"
+                stroke="#a91212" stroke-opacity="1.0" stroke-width="15.170369"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-19854.398"
+                class="id_ExxonMobil_climate_change_denial" cy="14431.455"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-19932.248"
+                class="id_Climate_Change_Denial:_Heads_in_the_Sand"
+                cy="14751.438" stroke="#6a7384" stroke-opacity="1.0"
+                stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-22281.98"
+                class="id_Climate_change_in_Somalia" cy="15678.6045"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-18009.07"
+                class="id_Effects_of_climate_change_on_agriculture"
+                cy="19817.246" stroke="#6a7384" stroke-opacity="1.0"
+                stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#8b97c2" r="53.837036" cx="-19016.094"
+                class="id_Effects_of_climate_change_on_the_water_cycle"
+                cy="19101.852" stroke="#616987" stroke-opacity="1.0"
+                stroke-width="9.362963"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-19321.896"
+                class="id_Climate_change_and_civilizational_collapse"
+                cy="14814.822" stroke="#6a7384" stroke-opacity="1.0"
+                stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-19202.457"
+                class="id_History_of_climate_change_policy_and_politics"
+                cy="14527.725" stroke="#6a7384" stroke-opacity="1.0"
+                stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-18007.05"
+                class="id_Climate_risk" cy="14464.594" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#a4b3b7" r="58.607407" cx="-17502.13"
+                class="id_Climate-smart_agriculture" cy="19726.234"
+                stroke="#727d80" stroke-opacity="1.0" stroke-width="10.192593"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-15726.819"
+                class="id_Climate_science" cy="15598.149" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#a4b3b7" r="58.607407" cx="-8145.4404"
+                class="id_Climate_model" cy="9036.384" stroke="#727d80"
+                stroke-opacity="1.0" stroke-width="10.192593"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="-16644.094"
+                class="id_Climate_resilience" cy="14073.871" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="12309.936"
+                class="id_Secondary_atmosphere" cy="-17512.32" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#a4b3b7" r="58.607407" cx="5870.755"
+                class="id_Earth_science" cy="-11597.422" stroke="#727d80"
+                stroke-opacity="1.0" stroke-width="10.192593"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="12801.537"
+                class="id_Journal_of_Geophysical_Research" cy="-17979.113"
+                stroke="#6a7384" stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="8351.468"
+                class="id_Earth_tide" cy="-6955.864" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#98a5bd" r="56.22222" cx="12503.149"
+                class="id_Solar_symbol" cy="-15232.047" stroke="#6a7384"
+                stroke-opacity="1.0" stroke-width="9.777778"/>
+        <circle fill-opacity="1.0" fill="#ec2928" r="84.844444" cx="12248.557"
+                class="id_Planetary_symbol" cy="-15404.246" stroke="#a51c1c"
+                stroke-opacity="1.0" stroke-width="14.755555"/>
+        <circle fill-opacity="1.0" fill="#a4b3b7" r="58.607407" cx="12610.722"
+                class="id_Astronomical_symbol" cy="-15449.696" stroke="#727d80"
+                stroke-opacity="1.0" stroke-width="10.192593"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="1794.2527"
+                class="id_Complex_adaptive_system" cy="3111.5562"
+                stroke="#0909ae" stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="448.22513"
+                class="id_Complex_system" cy="2806.6843" stroke="#0909ae"
+                stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="-2280.2837"
+                class="id_Social_network_service" cy="1230.9603"
+                stroke="#0909ae" stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="-678.33905"
+                class="id_Social_Network" cy="-72.93215" stroke="#0909ae"
+                stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="-1253.4321"
+                class="id_Mathematician" cy="-5345.788" stroke="#0909ae"
+                stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="-420.27243"
+                class="id_Food_web" cy="-593.7501" stroke="#0909ae"
+                stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="-4789.905"
+                class="id_Cognitive_model" cy="-6303.936" stroke="#0909ae"
+                stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="-5665.43"
+                class="id_Large_language_model" cy="-6498.0996" stroke="#0909ae"
+                stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="-724.63837"
+                class="id_Neural_circuit" cy="-1947.9933" stroke="#0909ae"
+                stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="-2595.4543"
+                class="id_Biological_neuron_model" cy="-4057.4407"
+                stroke="#0909ae" stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="-9575.929"
+                class="id_Cognitive_architecture" cy="-7908.0693"
+                stroke="#0909ae" stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="-6253.7295"
+                class="id_Computational_model" cy="-6087.6885" stroke="#0909ae"
+                stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="-5244.953"
+                class="id_Expert_system" cy="-9054.056" stroke="#0909ae"
+                stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="-5957.244"
+                class="id_Knowledge_graph" cy="-9230.988" stroke="#0909ae"
+                stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="-4575.654"
+                class="id_Social_science" cy="-1800.5747" stroke="#0909ae"
+                stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="-22081.617"
+                class="id_Land-use_change" cy="15946.787" stroke="#0909ae"
+                stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="-19627.523"
+                class="id_Climate_scientist" cy="14781.303" stroke="#0909ae"
+                stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="-19523.932"
+                class="id_Climate_sceptic" cy="14467.042" stroke="#0909ae"
+                stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#a4b3b7" r="58.607407" cx="-16139.047"
+                class="id_Atmospheric_science" cy="16253.875" stroke="#727d80"
+                stroke-opacity="1.0" stroke-width="10.192593"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="-17329.064"
+                class="id_Climate_hazard" cy="14255.417" stroke="#0909ae"
+                stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="12555.106"
+                class="id_Asteroid" cy="-17754.422" stroke="#0909ae"
+                stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="5482.101"
+                class="id_Tide" cy="-3496.9998" stroke="#0909ae"
+                stroke-opacity="1.0" stroke-width="5.214815"/>
+        <circle fill-opacity="1.0" fill="#0e0df9" r="29.985188" cx="12390.619"
+                class="id_Astrological_symbol" cy="-15385.919" stroke="#0909ae"
+                stroke-opacity="1.0" stroke-width="5.214815"/>
+    </g>
+</svg>
