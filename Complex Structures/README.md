@@ -3,6 +3,8 @@ Este projeto foi desenvolvido como Trabalho __Final da disciplina de Algoritmos 
 
 > Link do vídeo: https://www.youtube.com/watch?v=eA3HfkdZ5gs
 
+> Link da página web com o grafo: https://joelrlima.github.io/Data-Structure-and-Algorithms-2/Complex%20Structures/network/
+
 ### 👥 Autores
 * Sueyvid
 
@@ -84,5 +86,6 @@ O pipeline de dados segue as etapas:
 1. __Poda (Truncate)__: Geração de um subgrafo contendo apenas o "Core" da rede (nós com grau >= 2) para melhor visualização .
 
 _Este projeto é estritamente educacional e utiliza dados públicos da Wikipedia._
+
 
 
