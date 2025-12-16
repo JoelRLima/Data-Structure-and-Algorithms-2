@@ -1,6 +1,8 @@
 ## Análise de Redes Complexas na Wikipedia
 Este projeto foi desenvolvido como Trabalho __Final da disciplina de Algoritmos e Estrutura de Dados II__. O objetivo é construir, visualizar e analisar uma rede complexa gerada a partir de artigos da Wikipedia, explorando as conexões semânticas entre diferentes tópicos.
 
+> Link do vídeo: https://www.youtube.com/watch?v=eA3HfkdZ5gs
+
 ### 👥 Autores
 * Sueyvid
 
@@ -82,4 +84,5 @@ O pipeline de dados segue as etapas:
 1. __Poda (Truncate)__: Geração de um subgrafo contendo apenas o "Core" da rede (nós com grau >= 2) para melhor visualização .
 
 _Este projeto é estritamente educacional e utiliza dados públicos da Wikipedia._
+
 
