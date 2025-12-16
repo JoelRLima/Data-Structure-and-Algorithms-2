@@ -28,15 +28,15 @@ Como funciona:
 
 1. __Heurística Centrípetra__:
 
-* Ao expandir um nó, o algoritmo calcula a __similaridade textual__ (usando ```difflib.SequenceMatcher```) entre o título da página atual e seus links.
+    * Ao expandir um nó, o algoritmo calcula a __similaridade textual__ (usando ```difflib.SequenceMatcher```) entre o título da página atual e seus links.
 
-* Links com alta similaridade recebem prioridade (Score > 0.4).
+    * Links com alta similaridade recebem prioridade (Score > 0.4).
 
 1. __Estratégia Híbrida (Fallback):__
 
-* O algoritmo tenta preencher ```MAX_LINKS``` (ex: 10) com os melhores candidatos semânticos.
+    * O algoritmo tenta preencher ```MAX_LINKS``` (ex: 10) com os melhores candidatos semânticos.
 
-* Caso não haja candidatos qualificados suficientes, ele completa as vagas restantes com outros links válidos da página para garantir a continuidade da expansão da rede.
+    * Caso não haja candidatos qualificados suficientes, ele completa as vagas restantes com outros links válidos da página para garantir a continuidade da expansão da rede.
 
 ## 🛠️ Tecnologias Utilizadas
 O projeto foi desenvolvido em __Python 3__ utilizando as seguintes bibliotecas:
@@ -82,3 +82,4 @@ O pipeline de dados segue as etapas:
 1. __Poda (Truncate)__: Geração de um subgrafo contendo apenas o "Core" da rede (nós com grau >= 2) para melhor visualização .
 
 _Este projeto é estritamente educacional e utiliza dados públicos da Wikipedia._
+
